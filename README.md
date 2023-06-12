@@ -11,3 +11,6 @@ Welcome to the Telecom Customers Churn Prediction project. This project focuses 
 2. Gain proficiency in evaluating and comparing trained models by utilizing metrics such as the Area Under the Curve (AUC) score and visualizing the Receiver Operating Characteristic (ROC) curve.
 
 3. Acquire hands-on experience in training various classifier models using the Scikit-Learn library, a powerful tool in the field of machine learning.
+
+
+**Data source:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
